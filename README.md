@@ -1,5 +1,4 @@
 
-## NAME_OF_YOUR_APP_HERE
 Hello From Gabriel
 ### App Description
 The purpose of this mobile app is to allow the user to change the text, change the view color, as well as the text color. 
