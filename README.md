@@ -7,7 +7,7 @@ It also allows the user to revert all the changes that were made by clicking on 
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/SIt3ETSYih.gif" width=200><br>
+<img src="http://g.recordit.co/hsTRwKsCya.gif" width=200><br>
 
 ### Required User Stories
 - [ X ] 1. User sees custom text in a label - Hello from {name}!
