@@ -2,7 +2,7 @@
 ## NAME_OF_YOUR_APP_HERE
 Hello From Gabriel
 ### App Description
-`TODO://` The purpose of this mobile app is to allow the user to change the text, change the view color, as well as the text color. 
+The purpose of this mobile app is to allow the user to change the text, change the view color, as well as the text color. 
 It also allows the user to revert all the changes that were made by clicking on the screen. 
 
 ### App Walk-though
